@@ -1,0 +1,7 @@
+/target
+.idea
+.vscode
+
+*.csv
+*.json
+*.lock
